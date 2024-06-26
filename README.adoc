@@ -4,11 +4,19 @@
 
 toc::[]
 
-== Modul 5
+== Modul 1
 
-> Public IT: Cloud & Open Source Software
+> Innovation und Transformation im öffentlichen Sektor
 
-=== link:docs/module/5/1/00.md[Tag 1: Open Source Grundlagen & Verwendung]
+== Modul 2
+
+> Smart City, Government & KI
+
+== Modul 3
+
+> Public IT: Digitale Nachhaltigkeit 
+
+=== link:docs/module/5/1/00.md[Tag 1: Public & Private Sector IT]
 
 [width="100%",cols="25%,25%,25%,25%",options="header",]
 |===
@@ -18,20 +26,20 @@ toc::[]
 |🔠 Format
 |🧑 Referent
 
-| 08.45 – 09.30 (45 min)
+| 08.30 – 09.30 (1h)
 | link:docs/module/5/1/01.md[IT-**Grundlagen, Begriffe & Konzepte**]
 | Vortrag
 | Markus Tiede
 
 | 09.45 – 10.45 (1h)
-| link:docs/module/5/1/02.md[**Open Source (Software) – Einführung**]
+| link:docs/module/5/1/02.md[Einführung «Cloud, Open-APIs & Co»]
 | Vortrag
 | Markus Tiede
 
 | 11.00 – 12.00 (1h)
-| link:docs/module/5/1/03.md[**Open Source Alternativen** – Teil 1]
-| Gruppenarbeit & Hands-on
-| 
+| link:docs/module/5/1/03.md[Open Source (Software) – Einführung]
+| Vortrag
+| Markus Tiede
 
 | 
 | 
@@ -39,116 +47,30 @@ toc::[]
 | 
 
 | 13.15 – 14.15 (1h)
-| link:docs/module/5/1/04.md[**Open Source Alternativen** – Teil 2]
+| link:docs/module/5/1/04.md[Beispiele aus der Wirtschaft]
 | Gruppenpräsentation: Show & Tell
 | 
 
-| 14.30 – 15.15 (45 min)
-| link:docs/module/5/1/05.md[**Beispiele aus der Wirtschaft**]
+| 14.30 – 15.30 (1h)
+| link:docs/module/5/1/05.md[OSPOs: Co-creation, Compliance & Communities]
 | Vortrag
 | Markus Tiede
 
-| 15.30 – 16.30 (1h)
-| link:docs/module/5/1/06.md[**Open Source im Detail - Rechte & Pflichten**: Lizenzen & EMBAG]
-| Gastvortrag
-| https://www.ronzani-schlauri.com/schlauri-de[Simon Schlauri]
-
-|===
-
-=== link:docs/module/5/2/00.md[Tag 2: OSPOs & Digitale Souveränität]
-
-[width="100%",cols="25%,25%,25%,25%",options="header",]
-|===
-
-|⏱️ Zeit
-|💡 Thema
-|🔠 Format
-|🧑 Referent
-
-| 08.45 – 09.45 (1h)
-| link:docs/module/5/2/01.md[**OSPOs: Co-creation, Compliance & Communities** – Teil 1]
-| Vortrag
-| Markus Tiede
-
-| 10.00 – 11.00 (1h)
-| link:docs/module/5/2/02.md[**OSPOs: Co-creation, Compliance & Communities** – Teil 2]
-| Vortrag
-| Markus Tiede
-
-| 11.15 – 12.00 (45 min)
-| link:docs/module/5/2/03.md[**Vorstellung: Organisationen & Vereine**]
-| Vortrag
-| Markus Tiede
-
-| 
-| 
-| 
-| 
-
-| 13.15 – 14.00 (45 min)
-| link:docs/module/5/2/04.md[Einführung **«Cloud, Open-APIs & Co»**]
-| Vortrag
-| 
-
-| 14.15 – 15.15 (1h)
-| link:docs/module/5/2/05.md[**Digitale Souveränität**]
-| Vortrag
-| Markus Tiede
-
-| 15.30 – 16.30 (1h)
+| 15.45 – 16.30 (45 min)
 | link:docs/module/5/2/06.md[**Praxisbeispiel**]
 | Gastvortrag
 | https://github.com/czosel[Christian Zosel] - https://github.com/adfinis[@adfinis]
 
 |===
 
-=== link:docs/module/5/3/00.md[Tag 3: Big Picture, konkrete Schritte & Herausforderung(en)]
+== Modul 4
 
-[width="100%",cols="25%,25%,25%,25%",options="header",]
-|===
+> Open Government Data (OGD) Management
 
-|⏱️ Zeit
-|💡 Thema
-|🔠 Format
-|🧑 Referent
+== Modul 5
 
-| 08.45 – 09.30 (45 min)
-| link:docs/module/5/3/01.md[Abgrenzung – **klassische IT & Künstliche Intelligenz**]
-| Vortrag
-| Markus Tiede
-
-| 09.45 – 10.45 (1h)
-| link:docs/module/5/3/02.md[**Public IT in der Schweiz** – Big Picture & Tech Stack: 2030++]
-| Vortrag
-| Markus Tiede
-
-| 11.00 – 12.00 (1h)
-| link:docs/module/5/3/03.md[**Next Steps: Was ändere (s)ich ab morgen?**]
-| Gruppenarbeit
-| 
-
-| 
-| 
-| 
-| 
-
-| 13.15 – 14.15 (1h)
-| link:docs/module/5/3/04.md[**Präsentation und Diskussion**]
-| Plenum
-| 
-
-| 14.30 – 15.30 (1h)
-| link:docs/module/5/3/05.md[**Impediments & Lösungsansätze**]
-| Moderiertes Gespräch
-| Markus Tiede
-
-| 15.45 – 16.30 (45 min)
-| [Puffer]
-| 
-| 
-
-|===
+> Linked Data (LD) und Visualisierungen
 
 == Modul 6
 
-> Digitale Nachhaltigkeit Datenvisualisierung in Anwendung
+> Digitale Nachhaltigkeit und Datenvisualisierung in Anwendung
