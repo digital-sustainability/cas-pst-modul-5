@@ -16,7 +16,7 @@ toc::[]
 
 > Public IT: Digitale Nachhaltigkeit 
 
-=== link:docs/module/5/1/00.md[Tag 1: Public & Private Sector IT]
+=== link:docs/module/3/1/00.md[Tag 1: Public & Private Sector IT]
 
 [width="100%",cols="25%,25%,25%,25%",options="header",]
 |===
@@ -27,17 +27,17 @@ toc::[]
 |🧑 Referent
 
 | 08.30 – 09.30 (1h)
-| link:docs/module/5/1/01.md[IT-**Grundlagen, Begriffe & Konzepte**]
+| link:docs/module/3/1/01.md[IT-**Grundlagen, Begriffe & Konzepte**]
 | Vortrag
 | Markus Tiede
 
 | 09.45 – 10.45 (1h)
-| link:docs/module/5/1/02.md[Einführung «Cloud, Open-APIs & Co»]
+| link:docs/module/3/1/02.md[Einführung «Cloud, Open-APIs & Co»]
 | Vortrag
 | Markus Tiede
 
 | 11.00 – 12.00 (1h)
-| link:docs/module/5/1/03.md[Open Source (Software) – Einführung]
+| link:docs/module/3/1/03.md[Open Source (Software) – Einführung]
 | Vortrag
 | Markus Tiede
 
@@ -47,17 +47,17 @@ toc::[]
 | 
 
 | 13.15 – 14.15 (1h)
-| link:docs/module/5/1/04.md[Beispiele aus der Wirtschaft]
+| link:docs/module/3/1/04.md[Beispiele aus der Wirtschaft]
 | Gruppenpräsentation: Show & Tell
 | 
 
 | 14.30 – 15.30 (1h)
-| link:docs/module/5/1/05.md[OSPOs: Co-creation, Compliance & Communities]
+| link:docs/module/3/1/05.md[OSPOs: Co-creation, Compliance & Communities]
 | Vortrag
 | Markus Tiede
 
 | 15.45 – 16.30 (45 min)
-| link:docs/module/5/2/06.md[**Praxisbeispiel**]
+| link:docs/module/3/2/06.md[**Praxisbeispiel**]
 | Gastvortrag
 | https://github.com/czosel[Christian Zosel] - https://github.com/adfinis[@adfinis]
 
