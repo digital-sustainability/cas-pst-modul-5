@@ -57,7 +57,7 @@ toc::[]
 | Markus Tiede
 
 | 15.45 – 16.30 (45 min)
-| link:docs/module/3/2/06.md[**Praxisbeispiel**]
+| link:docs/module/3/1/06.md[**Praxisbeispiel**]
 | Gastvortrag
 | https://github.com/czosel[Christian Zosel] - https://github.com/adfinis[@adfinis]
 
