@@ -71,6 +71,9 @@ toc::[]
 
 > Linked Data (LD) und Visualisierungen
 
+=== link:docs/module/5/3/01.md[Tag 3: Datenvisualisierung]
+
+
 == Modul 6
 
-> Digitale Nachhaltigkeit und Datenvisualisierung in Anwendung
+> Umsetzung und Anwendungen
